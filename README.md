@@ -12,8 +12,8 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/your-username/OutlookMailer.git
-cd OutlookMailer
+git clone https://github.com/Talhazunair/BulkOutlookSender.git
+cd {Project Folder}
 2. Install Dependencies
 Ensure Python (3.x) is installed, then run:
 
