@@ -32,7 +32,7 @@ pip install -r requirements.txt
 2. Add the following column headers in the first row:  
 
    | Email | Password | To (Recipient) |
-   |-------|---------|---------------|---------|---------|------------|
+   |-------|---------|---------------|
    | your_email@outlook.com | your_password | recipient1@example.com | 
    | your_email@outlook.com | your_password | recipient2@example.com | 
 
