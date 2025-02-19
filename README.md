@@ -1,4 +1,4 @@
-# BulkOutlookSender
+[[# BulkOutlookSender
 OutlookMailer 📨 | A Python automation tool built with Selenium and PyQt5 to send bulk emails via Outlook. Reads recipient emails and attachments from an Excel file, streamlining the mailing process with a user-friendly GUI. 
 
 Features
@@ -43,3 +43,4 @@ This will launch the GUI, allowing you to send bulk emails with attachments via 
 License
 📜 This project is licensed under the MIT License.
 
+](https://github.com/Talhazunair/BulkOutlookSender)]
