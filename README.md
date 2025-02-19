@@ -1,46 +1,57 @@
-[[# BulkOutlookSender
-OutlookMailer 📨 | A Python automation tool built with Selenium and PyQt5 to send bulk emails via Outlook. Reads recipient emails and attachments from an Excel file, streamlining the mailing process with a user-friendly GUI. 
+# **OutlookMailer**
 
-Features
-✅ Automates sending emails via Outlook
-✅ Reads recipient emails, subjects, messages, and attachments from an Excel file
-✅ Simple and user-friendly PyQt5 GUI
-✅ Handles multiple emails efficiently
+**OutlookMailer** is a Python automation tool built with **Selenium** and **PyQt5** to send bulk emails via Outlook. It reads recipient emails and attachments from an Excel file and automates the process through a user-friendly GUI. 🚀  
 
-Installation
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/Talhazunair/BulkOutlookSender.git
-cd {Project Folder}
-2. Install Dependencies
-Ensure Python (3.x) is installed, then run:
+## **Features**  
+✅ Automates sending emails via Outlook  
+✅ Reads recipient emails, subjects, messages, and attachments from an Excel file  
+✅ Simple and user-friendly **PyQt5 GUI**  
+✅ Handles multiple emails efficiently  
 
-bash
-Copy
-Edit
+---
+
+## **Installation**  
+
+### **1. Clone the Repository**  
+```bash
+git clone https://github.com/your-username/OutlookMailer.git
+cd OutlookMailer
+```
+
+### **2. Install Dependencies**  
+Ensure Python (3.x) is installed, then run:  
+```bash
 pip install -r requirements.txt
-Setup: Prepare Your Excel File
-Open Excel and create a new file (emails.xlsx).
+```
 
-Add the following column headers in the first row:
+---
 
-Email	Password	To (Recipient)	Subject	Message	Attachment
-your_email@outlook.com	your_password	recipient1@example.com	
-your_email@outlook.com	your_password	recipient2@example.com	
-Save the file as emails.xlsx in the same directory as main.py.
+## **Setup: Prepare Your Excel File**  
 
-Usage
-Run the software using:
+1. Open **Excel** and create a new file (`emails.xlsx`).  
+2. Add the following column headers in the first row:  
 
-bash
-Copy
-Edit
+   | Email | Password | To (Recipient) | Subject | Message | Attachment |
+   |-------|---------|---------------|---------|---------|------------|
+   | your_email@outlook.com | your_password | recipient1@example.com | Hello | This is a test email. | C:\path\to\file.pdf |
+   | your_email@outlook.com | your_password | recipient2@example.com | Meeting Update | Please find the attached document. | C:\path\to\file.docx |
+
+3. Save the file as **`emails.xlsx`** in the same directory as `main.py`.
+
+---
+
+## **Usage**  
+
+Run the software using:  
+```bash
 python main.py
-This will launch the GUI, allowing you to send bulk emails with attachments via Outlook.
+```
+This will launch the **GUI**, allowing you to send bulk emails with attachments via Outlook.
 
-License
-📜 This project is licensed under the MIT License.
+---
 
-](https://github.com/Talhazunair/BulkOutlookSender)]
+## **License**  
+📜 This project is licensed under the **MIT License**.  
+
+---
+
