@@ -14,7 +14,7 @@
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/OutlookMailer.git
+git clone https://github.com/Talhazunair/BulkOutlookSender.git
 cd OutlookMailer
 ```
 
@@ -33,8 +33,8 @@ pip install -r requirements.txt
 
    | Email | Password | To (Recipient) | Subject | Message | Attachment |
    |-------|---------|---------------|---------|---------|------------|
-   | your_email@outlook.com | your_password | recipient1@example.com | Hello | This is a test email. | C:\path\to\file.pdf |
-   | your_email@outlook.com | your_password | recipient2@example.com | Meeting Update | Please find the attached document. | C:\path\to\file.docx |
+   | your_email@outlook.com | your_password | recipient1@example.com | 
+   | your_email@outlook.com | your_password | recipient2@example.com | 
 
 3. Save the file as **`emails.xlsx`** in the same directory as `main.py`.
 
