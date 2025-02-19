@@ -15,7 +15,7 @@
 ### **1. Clone the Repository**  
 ```bash
 git clone https://github.com/Talhazunair/BulkOutlookSender.git
-cd OutlookMailer
+cd BulkOutlookSender
 ```
 
 ### **2. Install Dependencies**  
