@@ -4,7 +4,7 @@
 
 ## **Features**  
 ✅ Automates sending emails via Outlook  
-✅ Reads recipient emails, subjects, messages, and attachments from an Excel file  
+✅ Reads recipient emails from an Excel file  
 ✅ Simple and user-friendly **PyQt5 GUI**  
 ✅ Handles multiple emails efficiently  
 
